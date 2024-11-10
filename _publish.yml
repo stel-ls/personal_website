@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 5ec87f53-e5fb-4d9a-ac79-b8e53429463f
+      url: 'https://stellakoh.netlify.app/'
