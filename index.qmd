@@ -1,16 +1,35 @@
 ---
-title: "personal_project"
+title: "Stella Koh"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/stel-ls
+    - text: LinkedIn
+      url: "https://linkedin.com/in/stella-k-880a34308"
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:stel.skoh@gmail.com"
+    - text: Resume
+      url: "resume.pdf"
+
+toc: false
 ---
 
-This is a Quarto website.
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 2
-```
+University of California, Los Angeles | Los Angeles, CA
+B.S. Statistics, B.A. Business Economics | Sept 2011 - June 2015
 
-```{r}
-runif(10)
-```
+Macalester College | St. Paul MA
+B.A in Economics | Sept 2007 - June 2011
 
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
