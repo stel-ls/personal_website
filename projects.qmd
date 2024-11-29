@@ -1,15 +1,6 @@
 ---
 toc: false
 title: "Projects"
-extra-head: |
-  <script>
-    document.addEventListener("DOMContentLoaded", function() {
-      const titleHeader = document.querySelector('th[data-field="title"]');
-      if (titleHeader) {
-        titleHeader.textContent = "Project Names";
-      }
-    });
-  </script>
 listing: 
   - id: project-listing
     contents:
