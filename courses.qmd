@@ -1,3 +1,48 @@
 ---
 title: Courses
 ---
+
+# Statistics Classes
+
+STATS 20: Programming in R
+
+STATS 100A: Introduction to Probability
+
+STATS 100B: Introduction to Mathematical Statistics
+
+STATS 100C: Linear Models
+
+STATS 101A: Introduction to Data Analysis and Regression
+
+STATS 101B: Introduction to Design and Analysis of Experiment
+
+STATS 101C: Introduction to Statistical Models and Data Mining
+
+
+# Economics Classes
+
+ECON 1: Principles of Microeconomics
+
+ECON 2: Principles of Macroeconomics
+
+ECON 11: Microeconomic Theory
+
+ECON 101: Microeconomic Theory
+
+ECON 102: Macroeconomic Theory
+
+ECON 103/L: Introduction to Econometrics
+
+ECON 104/L: Data Science for Economists
+
+ECON 106/F: Finance
+
+# Management Classes
+
+MGMT 1A/B: Principles of Accounting
+
+# Math Classes
+
+MATH 32A/B: Multivariable Calculus
+
+MATH 33A: Linear Algrebra And Applications

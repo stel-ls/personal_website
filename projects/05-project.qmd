@@ -1,0 +1,20 @@
+---
+title: Decoding Rotten Tomatoes Scores
+format:
+  html:
+    css: styles.css
+---
+
+*Project Duration: Jan - March 2024*
+
+*Category: Club*
+
+*Organization: DataRes*
+
+In the Data Blog team, I worked on the first section of this article which focuses on analyzing movie trends over the decades based on Rotten Tomatoes reviews and ratings.
+
+[Link to Article](https://ucladatares.medium.com/decoding-rotten-tomatoes-scores-f4c58b0886c3){.external target="_blank"}
+
+<div class="button-container">
+  <a href="04-project.qmd" class="custom-button">Back</a>
+</div>

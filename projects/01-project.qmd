@@ -1,5 +1,22 @@
 ---
-title: Project 1
+title: Specialty Crop Block Grant Program (SCBGP) Dashboard
+format:
+  html:
+    css: styles.css
 ---
 
-Some project
+*Project Duration: June 2024-Aug 2024*
+
+*Category: Internship*
+
+*Organization: Local and Regional Foods Division, AMS-USDA*
+
+I worked at the USDA as a Data Analyst Fellow in the summer of 2024, creating an automated data flow to clean and transform funding data from the Specialty Crop Block Grant Program (SCBGP) database to a live dashboard. This project supported internal team decision-making by centralizing access to accurate data and new insights. She also helped build an R Shiny dashboard to identify noncompetitive funding gaps for the 2024 USDA Tech Hackathon and created visualizations for various Local and Regional Foods Division (LRFD) teams to be used in public infographics and reports.
+
+[Link to Presentation](https://github.com/codingitforward/fellowship2024/blob/main/Stella_Koh.pdf){.external target="_blank"}
+
+<iframe src="01-project.pdf" width="100%" height="600px"></iframe>
+
+<div class="button-container">
+  <a href="02-project.qmd" class="custom-button">Next</a>
+</div>

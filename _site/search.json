@@ -2,9 +2,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Listing Example",
+    "title": "Projects",
     "section": "",
-    "text": "Here is my project 1"
+    "text": "Title\n\n\n\n\n\n\nSpecialty Crop Block Grant Program (SCBGP) Dashboard\n\n\n\n\n2024 USDA Innovation Hackathon Dashboard\n\n\n\n\nApartment Price Modelling\n\n\n\n\nEffect of Racquet Specifications on Tennis Performance\n\n\n\n\nDecoding Rotten Tomatoes Scores\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html#project-1",
@@ -23,36 +23,64 @@
   {
     "objectID": "projects/01-project.html",
     "href": "projects/01-project.html",
-    "title": "Project 1",
+    "title": "Specialty Crop Block Grant Program (SCBGP) Dashboard",
     "section": "",
-    "text": "Some project"
+    "text": "Project Duration: June 2024-Aug 2024\nCategory: Internship\nOrganization: Local and Regional Foods Division, AMS-USDA\nI worked at the USDA as a Data Analyst Fellow in the summer of 2024, creating an automated data flow to clean and transform funding data from the Specialty Crop Block Grant Program (SCBGP) database to a live dashboard. This project supported internal team decision-making by centralizing access to accurate data and new insights. She also helped build an R Shiny dashboard to identify noncompetitive funding gaps for the 2024 USDA Tech Hackathon and created visualizations for various Local and Regional Foods Division (LRFD) teams to be used in public infographics and reports.\nLink to Presentation\n\n\n\nNext"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Stella Koh",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+    "text": "Stella Koh is __________."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Stella Koh",
     "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S. Statistics, B.A. Business Economics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S. Statistics, B.A. Business Economics | Sept 2011 - June 2015"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Stella Koh",
     "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "text": "Experience\nAgricultural Marketing Service, USDA | Data Analyst Intern | June 2024-Aug 2024\nNKOK Inc. | Office Assistant | Jul 2021 - Aug 2021"
   },
   {
     "objectID": "projects/02-project.html",
     "href": "projects/02-project.html",
-    "title": "Project 2",
+    "title": "2024 USDA Innovation Hackathon Dashboard",
     "section": "",
-    "text": "Some complex project\n\nrnorm(100) |&gt; hist()"
+    "text": "Project Duration: July 2024\nCategory: Internship\nOrganization: USDA\nWe aimed to reduce the burden of manually pulling, calculating, and reporting on the AgCensus data to help the Agriculture Marketing Service Grants Division develop funding models for noncompetitive grants programs. Our end product was an R Shiny Dashboard that provides funding gap insights by breaking down sales by commodities and socio-demographic data.\nLink to Github Repository\n\n\n\nDashboard Preview\n\n\n\nBack Next"
+  },
+  {
+    "objectID": "projects/05-project.html",
+    "href": "projects/05-project.html",
+    "title": "Decoding Rotten Tomatoes Scores",
+    "section": "",
+    "text": "Project Duration: Jan - March 2024\nCategory: Club\nOrganization: DataRes\nIn the Data Blog team, I worked on the first section of this article which focuses on analyzing movie trends over the decades based on Rotten Tomatoes reviews and ratings.\nLink to Article\n\nBack"
+  },
+  {
+    "objectID": "projects/03-project.html",
+    "href": "projects/03-project.html",
+    "title": "Apartment Price Modelling",
+    "section": "",
+    "text": "Project Duration: Oct - Dec 2023\nCategory: Club\nOrganization: NSDC\nIn this group project, I webscraped data of apartment listings near UCLA from apartments.com using ParseHub, cleaned the data in R, and visualized some insights with Tableau.\n\n\n\nBack Next"
+  },
+  {
+    "objectID": "projects/04-project.html",
+    "href": "projects/04-project.html",
+    "title": "Effect of Racquet Specifications on Tennis Performance",
+    "section": "",
+    "text": "Project Duration: Jan - March 2024\nCategory: Club\nOrganization: Bruin Sports Analytics\nAs Data Journalist on the Bruin Sports Analytics team, my partner and I analyzed the impact that racquet specifications had on certain aspects of tennis performance. These analyses were applied to several professional players, with a focus on the impact upon their playing styles.\nLink to Article\n\nBack Next"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Statistics Classes\nSTATS 20: Programming in R\nSTATS 100A: Introduction to Probability\nSTATS 100B: Introduction to Mathematical Statistics\nSTATS 100C: Linear Models\nSTATS 101A: Introduction to Data Analysis and Regression\nSTATS 101B: Introduction to Design and Analysis of Experiment\nSTATS 101C: Introduction to Statistical Models and Data Mining\n\n\nEconomics Classes\nECON 1: Principles of Microeconomics\nECON 2: Principles of Macroeconomics\nECON 11: Microeconomic Theory\nECON 101: Microeconomic Theory\nECON 102: Macroeconomic Theory\nECON 103/L: Introduction to Econometrics\nECON 104/L: Data Science for Economists\nECON 106/F: Finance\n\n\nManagement Classes\nMGMT 1A/B: Principles of Accounting\n\n\nMath Classes\nMATH 32A/B: Multivariable Calculus\nMATH 33A: Linear Algrebra And Applications"
   }
 ]

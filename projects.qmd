@@ -1,6 +1,15 @@
 ---
 toc: false
-title: "Listing Example"
+title: "Projects"
+extra-head: |
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const titleHeader = document.querySelector('th[data-field="title"]');
+      if (titleHeader) {
+        titleHeader.textContent = "Project Names";
+      }
+    });
+  </script>
 listing: 
   - id: project-listing
     contents:
@@ -13,15 +22,6 @@ listing:
       - title
     categories: false
 ---
-
-## Project 1
-
-Here is my [project 1](/projects/01-project.qmd)
-
-## Project 2
-
-Here is my [project 2](/projects/02-project.qmd)
-
 
 ::: project-listing
 :::

@@ -1,10 +1,24 @@
 ---
-title: Project 2
+title: 2024 USDA Innovation Hackathon Dashboard
+format:
+  html:
+    css: styles.css
 ---
 
-Some complex project
+*Project Duration: July 2024*
 
-```{r}
-rnorm(100) |> hist()
-```
+*Category: Internship*
 
+*Organization: USDA*
+
+We aimed to reduce the burden of manually pulling, calculating, and reporting on the AgCensus data to help the Agriculture Marketing Service Grants Division develop funding models for noncompetitive grants programs. Our end product was an R Shiny Dashboard that provides funding gap insights by breaking down sales by commodities and socio-demographic data.
+
+
+[Link to Github Repository](https://github.com/ams-goonies/usda-hackathon-2024){.external target="_blank"}
+
+![Dashboard Preview](02-project.png)
+
+<div class="button-container">
+  <a href="01-project.qmd" class="custom-button">Back</a>
+  <a href="03-project.qmd" class="custom-button">Next</a>
+</div>

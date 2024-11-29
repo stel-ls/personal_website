@@ -1,0 +1,21 @@
+---
+title: Effect of Racquet Specifications on Tennis Performance
+format:
+  html:
+    css: styles.css
+---
+
+*Project Duration: Jan - March 2024*
+
+*Category: Club*
+
+*Organization: Bruin Sports Analytics*
+
+As Data Journalist on the Bruin Sports Analytics team, my partner and I analyzed the impact that racquet specifications had on certain aspects of tennis performance. These analyses were applied to several professional players, with a focus on the impact upon their playing styles.
+
+[Link to Article](https://www.bruinsportsanalytics.com/post/raquet-specifications){.external target="_blank"}
+
+<div class="button-container">
+  <a href="03-project.qmd" class="custom-button">Back</a>
+  <a href="05-project.qmd" class="custom-button">Next</a>
+</div>

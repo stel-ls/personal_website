@@ -1,0 +1,21 @@
+---
+title: Apartment Price Modelling
+format:
+  html:
+    css: styles.css
+---
+
+*Project Duration: Oct - Dec 2023*
+
+*Category: Club*
+
+*Organization: NSDC*
+
+In this group project, I webscraped data of apartment listings near UCLA from apartments.com using ParseHub, cleaned the data in R, and visualized some insights with Tableau. 
+
+<iframe src="03-project.pdf" width="100%" height="600px"></iframe>
+
+<div class="button-container">
+  <a href="02-project.qmd" class="custom-button">Back</a>
+  <a href="04-project.qmd" class="custom-button">Next</a>
+</div>

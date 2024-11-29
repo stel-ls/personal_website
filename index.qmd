@@ -18,18 +18,17 @@ about:
 toc: false
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Hi! I'm a current junior passionate about unleashing the power of data by giving it a voice. I'm currently interested in anything data-related, especially if it intersects with the world of business.
+
 
 ## Education
 
 University of California, Los Angeles | Los Angeles, CA
-B.S. Statistics, B.A. Business Economics | Sept 2011 - June 2015
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+B.S. Statistics, B.A. Business Economics | Sept 2011 - June 2015
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+Agricultural Marketing Service, USDA | Data Analyst Intern | June 2024-Aug 2024
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+NKOK Inc. | Office Assistant | Jul 2021 - Aug 2021
