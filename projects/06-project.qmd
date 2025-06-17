@@ -1,0 +1,21 @@
+---
+title: Ideal Client Profile Analysis
+format:
+  html:
+    css: styles.css
+---
+
+*Project Duration: Jan - March 2025*
+
+*Category: Coursework*
+
+*Class: STATS 141XP - Practice of Statistical Consulting*
+
+As part of the capstone course, I worked in a team to present an ideal client profile analysis for SalesMind AI. I was heavily involved in data engineering, visualzing, and presenting our final work to representatives from SalesMind AI.
+
+<iframe src="06-project.pdf" width="100%" height="600px"></iframe>
+
+<div class="button-container">
+  <a href="05-project.qmd" class="custom-button">Back</a>
+  <a href="07-project.qmd" class="custom-button">Next</a>
+</div>

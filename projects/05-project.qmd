@@ -17,4 +17,5 @@ In the Data Blog team, I worked on the first section of this article which focus
 
 <div class="button-container">
   <a href="04-project.qmd" class="custom-button">Back</a>
+  <a href="06-project.qmd" class="custom-button">Next</a>
 </div>

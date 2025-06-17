@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Title\n\n\n\n\n\n\nSpecialty Crop Block Grant Program (SCBGP) Dashboard\n\n\n\n\n2024 USDA Innovation Hackathon Dashboard\n\n\n\n\nApartment Price Modelling\n\n\n\n\nEffect of Racquet Specifications on Tennis Performance\n\n\n\n\nDecoding Rotten Tomatoes Scores\n\n\n\n\n\nNo matching items"
+    "text": "Title\n\n\n\n\n\n\nSpecialty Crop Block Grant Program (SCBGP) Dashboard\n\n\n\n\n2024 USDA Innovation Hackathon Dashboard\n\n\n\n\nApartment Price Modelling\n\n\n\n\nEffect of Racquet Specifications on Tennis Performance\n\n\n\n\nDecoding Rotten Tomatoes Scores\n\n\n\n\nIdeal Client Profile Analysis\n\n\n\n\nScheduling Optimization for Jazz Hands for Autism\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html#project-1",
@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Stella Koh",
     "section": "",
-    "text": "Hi! I’m a current junior passionate about unleashing the power of data by giving it a voice. I’m currently interested in anything data-related, especially if it intersects with the world of business."
+    "text": "Hi! I’m Stella, a rising senior passionate about unleashing the power of data by giving it a voice. I’m currently interested in anything data-related, especially if it intersects with the world of business."
   },
   {
     "objectID": "index.html#education",
@@ -46,7 +46,7 @@
     "href": "index.html#experience",
     "title": "Stella Koh",
     "section": "Experience",
-    "text": "Experience\nAgricultural Marketing Service, USDA | Data Analyst Intern | June 2024-Aug 2024\nNKOK Inc. | Office Assistant | Jul 2021 - Aug 2021"
+    "text": "Experience\nPacific Life Consumer Markets Division | Data Analyst Intern | June 2025-Sept 2025\nAgricultural Marketing Service, USDA | Data Analyst Intern | June 2024-Aug 2024\nNKOK Inc. | Office Assistant | Jul 2021 - Aug 2021"
   },
   {
     "objectID": "projects/02-project.html",
@@ -60,7 +60,7 @@
     "href": "projects/05-project.html",
     "title": "Decoding Rotten Tomatoes Scores",
     "section": "",
-    "text": "Project Duration: Jan - March 2024\nCategory: Club\nOrganization: DataRes\nIn the Data Blog team, I worked on the first section of this article which focuses on analyzing movie trends over the decades based on Rotten Tomatoes reviews and ratings.\nLink to Article\n\nBack"
+    "text": "Project Duration: Jan - March 2024\nCategory: Club\nOrganization: DataRes\nIn the Data Blog team, I worked on the first section of this article which focuses on analyzing movie trends over the decades based on Rotten Tomatoes reviews and ratings.\nLink to Article\n\nBack Next"
   },
   {
     "objectID": "projects/03-project.html",
@@ -81,6 +81,20 @@
     "href": "courses.html",
     "title": "Courses",
     "section": "",
-    "text": "Statistics Classes\nSTATS 20: Programming in R\nSTATS 100A: Introduction to Probability\nSTATS 100B: Introduction to Mathematical Statistics\nSTATS 100C: Linear Models\nSTATS 101A: Introduction to Data Analysis and Regression\nSTATS 101B: Introduction to Design and Analysis of Experiment\nSTATS 101C: Introduction to Statistical Models and Data Mining\n\n\nEconomics Classes\nECON 1: Principles of Microeconomics\nECON 2: Principles of Macroeconomics\nECON 11: Microeconomic Theory\nECON 101: Microeconomic Theory\nECON 102: Macroeconomic Theory\nECON 103/L: Introduction to Econometrics\nECON 104/L: Data Science for Economists\nECON 106/F: Finance\n\n\nManagement Classes\nMGMT 1A/B: Principles of Accounting\n\n\nMath Classes\nMATH 32A/B: Multivariable Calculus\nMATH 33A: Linear Algrebra And Applications"
+    "text": "Statistics Classes\nSTATS 20: Programming in R\nSTATS 100A: Introduction to Probability\nSTATS 100B: Introduction to Mathematical Statistics\nSTATS 100C: Linear Models\nSTATS 101A: Introduction to Data Analysis and Regression\nSTATS 101B: Introduction to Design and Analysis of Experiment\nSTATS 101C: Introduction to Statistical Models and Data Mining\nSTATS 102A: Introduction to Computational Statistics with R\nSTATS 102B: Introduction to Computation and Optimization for Statistics\nSTATS 140-141XP: Practice of Statistical Consulting\n\n\nEconomics Classes\nECON 1: Principles of Microeconomics\nECON 2: Principles of Macroeconomics\nECON 11: Microeconomic Theory\nECON 101: Microeconomic Theory\nECON 102: Macroeconomic Theory\nECON 103/L: Introduction to Econometrics\nECON 104/L: Data Science for Economists\nECON 106F/L: Finance\nECON 106V/L: Investments\nECON 144: Economic Forecasting\n\n\nManagement Classes\nMGMT 1A/B: Principles of Accounting\nMGMT 122: Management Accounting\n\n\nMath Classes\nMATH 32A/B: Multivariable Calculus\nMATH 33A: Linear Algrebra And Applications"
+  },
+  {
+    "objectID": "projects/06-project.html",
+    "href": "projects/06-project.html",
+    "title": "Ideal Client Profile Analysis",
+    "section": "",
+    "text": "Project Duration: Jan - March 2025\nCategory: Coursework\nClass: STATS 141XP - Practice of Statistical Consulting\nAs part of the capstone course, I worked in a team to present an ideal client profile analysis for SalesMind AI. I was heavily involved in data engineering, visualzing, and presenting our final work to representatives from SalesMind AI.\n\n\n\nBack Next"
+  },
+  {
+    "objectID": "projects/07-project.html",
+    "href": "projects/07-project.html",
+    "title": "Scheduling Optimization for Jazz Hands for Autism",
+    "section": "",
+    "text": "Project Duration: March - June 2025\nCategory: Club\nOrganization: Datares\nOur consulting student team worked to build a scheduling optimization algorithm for Jazz Hands for Autism. We identified constraints and developed a working scheduling model leveraging Google OR-tools.\n\n\n\nBack"
   }
 ]
