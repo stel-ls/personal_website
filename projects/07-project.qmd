@@ -1,10 +1,6 @@
 ---
-title: "07-project"
-format: html
----
-
----
 title: Scheduling Optimization for Jazz Hands for Autism
+Category: Club
 format:
   html:
     css: styles.css
@@ -18,8 +14,10 @@ format:
 
 Our consulting student team worked to build a scheduling optimization algorithm for Jazz Hands for Autism. We identified constraints and developed a working scheduling model leveraging Google OR-tools.
 
-<iframe src="07-project.pdf" width="100%" height="600px"></iframe>
+<iframe src="07-project.pdf" width="100%" height="600px">
 
-<div class="button-container">
-  <a href="06-project.qmd" class="custom-button">Back</a>
-</div>
+</iframe>
+
+::: button-container
+<a href="06-project.qmd" class="custom-button">Back</a>
+:::

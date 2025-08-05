@@ -1,5 +1,6 @@
 ---
 title: Ideal Client Profile Analysis
+Category: Coursework
 format:
   html:
     css: styles.css
@@ -13,9 +14,10 @@ format:
 
 As part of the capstone course, I worked in a team to present an ideal client profile analysis for SalesMind AI. I was heavily involved in data engineering, visualzing, and presenting our final work to representatives from SalesMind AI.
 
-<iframe src="06-project.pdf" width="100%" height="600px"></iframe>
+<iframe src="06-project.pdf" width="100%" height="600px">
 
-<div class="button-container">
-  <a href="05-project.qmd" class="custom-button">Back</a>
-  <a href="07-project.qmd" class="custom-button">Next</a>
-</div>
+</iframe>
+
+::: button-container
+<a href="05-project.qmd" class="custom-button">Back</a> <a href="07-project.qmd" class="custom-button">Next</a>
+:::

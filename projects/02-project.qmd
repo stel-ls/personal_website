@@ -1,5 +1,6 @@
 ---
 title: 2024 USDA Innovation Hackathon Dashboard
+Category: Internship
 format:
   html:
     css: styles.css

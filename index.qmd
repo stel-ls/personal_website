@@ -13,24 +13,32 @@ about:
       text: Email
       url: "mailto:stel.skoh@gmail.com"
     - text: Resume
-      url: "resume.pdf"
+      url: "Resume_Stella_Koh_Data_Analyst.pdf"
 
 toc: false
 ---
 
 Hi! I'm Stella, a rising senior passionate about unleashing the power of data by giving it a voice. I'm currently interested in anything data-related, especially if it intersects with the world of business.
 
-
 ## Education
 
-University of California, Los Angeles | Los Angeles, CA
-
-B.S. Statistics, B.A. Business Economics | Sept 2022 - June 2026
+University of California, Los Angeles  \| 
+B.S. Statistics, B.A. Business Economics
 
 ## Experience
 
-Pacific Life Consumer Markets Division | Data Analyst Intern | June 2025-Sept 2025
+Pacific Life Consumer Markets Division \| 
+Data Analyst Intern \| 
+*June 2025-Sept 2025*
 
-Agricultural Marketing Service, USDA | Data Analyst Intern | June 2024-Aug 2024
+Agricultural Marketing Service, USDA \| 
+Data Analyst Intern \| 
+*June 2024-Aug 2024*
 
-NKOK Inc. | Office Assistant | Jul 2021 - Aug 2021
+Luskin Public School of Affairs \| 
+Research Assistant \| 
+*Nov 2023 - Present*
+
+NKOK Inc. \| 
+Office Assistant \| 
+*Jul 2021 - Aug 2021*
